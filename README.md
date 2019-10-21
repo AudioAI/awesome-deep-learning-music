@@ -39,6 +39,7 @@ However, these surveys do not cover music information retrieval tasks that are i
 | 1989 | [Algorithms for music composition by neural nets: Improved CBR paradigms](https://quod.lib.umich.edu/cgi/p/pod/dod-idx/algorithms-for-music-composition.pdf?c=icmc;idno=bbp2372.1989.044;format=pdf) | No |
 | 1989 | [A connectionist approach to algorithmic composition](http://www.jstor.org/stable/3679551) | No |
 | 1994 | [Neural network music composition by prediction: Exploring the benefits of psychoacoustic constraints and multi-scale processing](http://www-labs.iro.umontreal.ca/~pift6080/H09/documents/papers/mozer-music.pdf) | No |
+| 1995 | [Automatic source identification of monophonic musical instrument sounds](https://www.researchgate.net/publication/3622871_Automatic_source_identification_of_monophonic_musical_instrument_sounds) | No |
 | 1995 | [Neural network based model for classification of music type](http://ieeexplore.ieee.org/abstract/document/514161/) | No |
 | 1997 | [A machine learning approach to musical style recognition](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1496&context=compsci) | No |
 | 1998 | [Recognition of music types](https://www.ri.cmu.edu/pub_files/pub1/soltau_hagen_1998_2/soltau_hagen_1998_2.pdf) | No |
@@ -70,7 +71,7 @@ However, these surveys do not cover music information retrieval tasks that are i
 | 2014 | [Boundary detection in music structure analysis using convolutional neural networks](https://dav.grrrr.org/public/pub/ullrich_schlueter_grill-2014-ismir.pdf) | No |
 | 2014 | [Improving content-based and hybrid music recommendation using deep learning](http://www.smcnus.org/wp-content/uploads/2014/08/reco_MM14.pdf) | No |
 | 2014 | [A deep representation for invariance and music classification](http://www.mirlab.org/conference_papers/International_Conference/ICASSP%202014/papers/p7034-zhang.pdf) | No |
-| 2015 | [Auralisation of deep convolutional neural networks: Listening to learned features](http://ismir2015.uma.es/LBD/LBD24.pdf) | No |
+| 2015 | [Auralisation of deep convolutional neural networks: Listening to learned features](http://ismir2015.uma.es/LBD/LBD24.pdf) | [GitHub](https://github.com/keunwoochoi/Auralisation) |
 | 2015 | [Downbeat tracking with multiple features and deep neural networks](http://perso.telecom-paristech.fr/~grichard/Publications/2015-durand-icassp.pdf) | No |
 | 2015 | [Music boundary detection using neural networks on spectrograms and self-similarity lag matrices](http://www.ofai.at/~jan.schlueter/pubs/2015_eusipco.pdf) | No |
 | 2015 | [Classification of spatial audio location and content using convolutional neural networks](https://www.researchgate.net/profile/Toni_Hirvonen/publication/276061831_Classification_of_Spatial_Audio_Location_and_Content_Using_Convolutional_Neural_Networks/links/5550665908ae12808b37fe5a/Classification-of-Spatial-Audio-Location-and-Content-Using-Convolutional-Neural-Networks.pdf) | No |
@@ -153,6 +154,7 @@ However, these surveys do not cover music information retrieval tasks that are i
 | 2017 | [Multi-level and multi-scale feature aggregation using pre-trained convolutional neural networks for music auto-tagging](https://arxiv.org/pdf/1703.01793v2.pdf) | No |
 | 2017 | [Multi-level and multi-scale feature aggregation using sample-level deep convolutional neural networks for music classification](https://arxiv.org/pdf/1706.06810.pdf) | [GitHub](https://github.com/jongpillee/musicTagging_MSD) |
 | 2017 | [Sample-level deep convolutional neural networks for music auto-tagging using raw waveforms](https://arxiv.org/pdf/1703.01789v2.pdf) | No |
+| 2017 | [A SeqGAN for Polyphonic Music Generation](https://arxiv.org/pdf/1710.11418.pdf) | [GitHub](https://github.com/L0SG/seqgan-music) |
 | 2017 | [Harmonic and percussive source separation using a convolutional auto encoder](http://www.eurasip.org/Proceedings/Eusipco/Eusipco2017/papers/1570346835.pdf) | No |
 | 2017 | [Stacked convolutional and recurrent neural networks for music emotion recognition](https://arxiv.org/pdf/1706.02292.pdf) | No |
 | 2017 | [A deep learning approach to source separation and remixing of hiphop music](https://repositori.upf.edu/bitstream/handle/10230/32919/Martel_2017.pdf?sequence=1&isAllowed=y) | No |
@@ -173,7 +175,7 @@ However, these surveys do not cover music information retrieval tasks that are i
 | 2017 | [Deep learning and intelligent audio mixing](http://www.semanticaudio.co.uk/wp-content/uploads/2017/09/WIMP2017_Martinez-RamirezReiss.pdf) | No |
 | 2017 | [Deep learning for event detection, sequence labelling and similarity estimation in music signals](http://ofai.at/~jan.schlueter/pubs/phd/phd.pdf) | No |
 | 2017 | [Music feature maps with convolutional neural networks for music genre classification](https://www.researchgate.net/profile/Thomas_Pellegrini/publication/319326354_Music_Feature_Maps_with_Convolutional_Neural_Networks_for_Music_Genre_Classification/links/59ba5ae3458515bb9c4c6724/Music-Feature-Maps-with-Convolutional-Neural-Networks-for-Music-Genre-Classification.pdf?origin=publication_detail&ev=pub_int_prw_xdl&msrp=wzXuHZAa5zAnqEmErYyZwIRr2H0q01LnNEd4Wd7A15CQfdVLwdy98pmE-AdnrDvoc3-bVENSFrHt0yhaOiE2mQrYllVS9CJZOk-c9R0j_R1rbgcZugS6RtQ_.AUjPuJSF5P_DMngf-woH7W-7jdnQlbNQziR4_h6NnCHfR_zGcEa8vOyyOz5gx5nc4azqKTPQ5ZgGGLUxkLj1qCQLEQ5ThkhGlWHLyA.s6MBZE20-EO_RjRGCOCV4wk0WSFdN56Aloiraxz9hKCbJwRM2Et27RHVUA8jj9H8qvXIB6f7zSIrQgjXGrL2yCpyQlLffuf57rzSwg.KMMXbZrHsihV8DJM53xkHAWf3VebCJESi4KU4btNv9nQsyK2KnkhSQaTILKv0DSZY3c70a61LzywCBuoHtIhVOFhW5hVZN2n5O9uKQ) | No |
-| 2017 | [Automatic drum transcription for polyphonic recordings using soft attention mechanisms and convolutional neural networks](http://www.ryanstables.co.uk/docs/ISMIR2017CamReady.pdf) | [GitHub](https://github.com/CarlSouthall/ADTLib) |
+| 2017 | [Automatic drum transcription for polyphonic recordings using soft attention mechanisms and convolutional neural networks](https://carlsouthall.files.wordpress.com/2017/12/ismir2017adt.pdf) | [GitHub](https://github.com/CarlSouthall/ADTLib) |
 | 2017 | [Adversarial semi-supervised audio source separation applied to singing voice extraction](https://arxiv.org/pdf/1711.00048.pdf) | No |
 | 2017 | [Taking the models back to music practice: Evaluating generative transcription models built using deep learning](http://jcms.org.uk/issues/Vol2Issue1/taking-models-back-to-music-practice/Taking%20the%20Models%20back%20to%20Music%20Practice:%20Evaluating%20Generative%20Transcription%20Models%20built%20using%20Deep%20Learning.pdf) | [GitHub](https://github.com/IraKorshunova/folk-rnn) |
 | 2017 | [Generating nontrivial melodies for music as a service](https://ismir2017.smcnus.org/wp-content/uploads/2017/10/178_Paper.pdf) | No |
@@ -191,6 +193,10 @@ However, these surveys do not cover music information retrieval tasks that are i
 | 2017 | [Surrey-CVSSP system for DCASE2017 challenge task4](https://www.cs.tut.fi/sgn/arg/dcase2017/documents/challenge_technical_reports/DCASE2017_Xu_146.pdf) | [GitHub](https://github.com/yongxuUSTC/dcase2017_task4_cvssp) |
 | 2017 | [A study on LSTM networks for polyphonic music sequence modelling](https://qmro.qmul.ac.uk/xmlui/handle/123456789/24946) | [Website](http://www.eecs.qmul.ac.uk/~ay304/code/ismir17) |
 | 2018 | [MuseGAN: Multi-track sequential generative adversarial networks for symbolic music generation and accompaniment](https://arxiv.org/pdf/1709.06298.pdf) | [GitHub](https://github.com/salu133445/musegan) |
+| 2018 | [Music transformer: Generating music with long-term structure](https://arxiv.org/pdf/1809.04281.pdf) | No |
+| 2018 | [Music theory inspired policy gradient method for piano music transcription](https://nips2018creativity.github.io/doc/music_theory_inspired_policy_gradient.pdf) | No |
+| 2019 | [Enabling factorized piano music modeling and generation with the MAESTRO dataset](https://arxiv.org/abs/1810.12247) | No |
+| 2019 | [Generating Long Sequences with Sparse Transformers](https://arxiv.org/pdf/1904.10509.pdf) | [GitHub](https://github.com/openai/sparse_attention) |
 
 [Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-)
 
@@ -232,29 +238,30 @@ Each entry in [dl4m.bib](dl4m.bib) also displays additional information:
 - [Music tag classification model using CRNN](https://github.com/kristijanbartol/Deep-Music-Tagger)
 - [Finding the genre of a song with Deep Learning](https://github.com/despoisj/DeepAudioClassification)
 - [Composing music using neural nets](https://github.com/fephsun/neuralnetmusic)
+- [Performance-RNN-PyTorch](https://github.com/djosix/Performance-RNN-PyTorch)
 
 [Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-)
 
 ## Statistics and visualisations
 
-- 159 papers referenced. See the details in [dl4m.bib](dl4m.bib).
+- 165 papers referenced. See the details in [dl4m.bib](dl4m.bib).
 There are more papers from 2017 than any other years combined.
 Number of articles per year:
 ![Number of articles per year](fig/articles_per_year.png)
-- If you are applying DL to music, there are [327 other researchers](authors.md) in your field.
-- 33 tasks investigated. See the list of [tasks](tasks.md).
+- If you are applying DL to music, there are [356 other researchers](authors.md) in your field.
+- 34 tasks investigated. See the list of [tasks](tasks.md).
 Tasks pie chart:
 ![Tasks pie chart](fig/pie_chart_task.png)
-- 48 datasets used. See the list of [datasets](datasets.md).
+- 53 datasets used. See the list of [datasets](datasets.md).
 Datasets pie chart:
 ![Datasets pie chart](fig/pie_chart_dataset.png)
-- 27 architectures used. See the list of [architectures](architectures.md).
+- 30 architectures used. See the list of [architectures](architectures.md).
 Architectures pie chart:
 ![Architectures pie chart](fig/pie_chart_architecture.png)
 - 9 frameworks used. See the list of [frameworks](frameworks.md).
 Frameworks pie chart:
 ![Frameworks pie chart](fig/pie_chart_framework.png)
-- Only 41 articles (25%) provide their source code.
+- Only 44 articles (26%) provide their source code.
 Repeatability is the key to good science, so check out the [list of useful resources on reproducibility for MIR and ML](reproducibility.md).
 
 [Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-)
@@ -307,6 +314,8 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 - [Stefan Balke](https://www.audiolabs-erlangen.de/fau/assistant/balke) ([GitHub](https://github.com/stefan-balke))
 - [Jordi Pons](http://www.jordipons.me/) ([GitHub](https://github.com/jordipons))
 - Mirza Zulfan ([GitHub](https://github.com/mirzazulfan)) for the logo
+- [Devin Walters](https://github.com/devn)
+- https://github.com/LegendJ
 
 [Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-)
 
@@ -332,6 +341,8 @@ The list of conferences, journals and aggregators used to gather the proposed ma
 - [MIRDL](http://jordipons.me/wiki/index.php/MIRDL) - Unmaintained list of DL articles for MIR from [Jordi Pons](http://www.jordipons.me/)
 - [WWW 2018 Challenge](https://www.crowdai.org/challenges/www-2018-challenge-learning-to-recognize-musical-genre) - Learning to Recognize Musical Genre on the [FMA](https://github.com/mdeff/fma) dataset
 - [Music generation with DL](https://github.com/umbrellabeach/music-generation-with-DL) - List of resources on music generation with deep learning
+- [Auditory Scene Analysis](https://mitpress.mit.edu/books/auditory-scene-analysis) - Book about the perceptual organization of sound by [Albert Bregman](https://en.wikipedia.org/wiki/Albert_Bregman), the "father of [Auditory Scene Analysis](https://en.wikipedia.org/wiki/Auditory_scene_analysis)".
+  - [Demonstrations of Auditory Scene Analysis](http://webpages.mcgill.ca/staff/Group2/abregm1/web/downloadstoc.htm) - Audio demonstrations, which illustrate examples of auditory perceptual organization.
 
 [Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-)
 

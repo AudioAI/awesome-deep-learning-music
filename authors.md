@@ -1,6 +1,7 @@
 # List of authors
 
 - Adavanne, Sharath
+- Alec Radford
 - Arumugam, Muthumari
 - Arzt, Andreas
 - Badeau, Roland
@@ -41,13 +42,16 @@
 - Costa, Yandre MG
 - Courville, Aaron
 - Coutinho, Eduardo
+- Dai, Andrew M.
 - Dannenberg, Roger B
+- Das, Samarjit
 - David, Bertrand
 - De Haas, W Bas
 - De Lyon, Insa
 - Deng, Junqi
 - Dieleman, Sander
 - Dimoulas, Charalampos
+- Dinculescu, Monica
 - Dixon, Simon
 - Doerfler, Monika
 - Dong, Hao-Wen
@@ -58,6 +62,8 @@
 - Eck, Douglas
 - Ehmann, Andreas F.
 - Ellis, Daniel P. W.
+- Elsen, Erich
+- Engel, Jesse
 - Evangelopoulos, Georgios
 - Ewert, Sebastian
 - Fan, Zhe-Cheng
@@ -93,6 +99,7 @@
 - Han, Yoonchang
 - Hanjalic, A
 - Harchaoui, Zaid
+- Hawthorne, Curtis
 - He, Wenqi
 - Hennequin, Romain
 - Herrera, Jorge
@@ -101,16 +108,20 @@
 - Hiray, Sushant
 - Hirvonen, Toni
 - Hockman, Jason
+- Hoffman, Matthew D.
 - Holzapfel, Andre
 - Hsiao, Wen-Yi
 - Hsu, Yu-Lun
 - Hu, Min-Chun
 - Huang, Allen
+- Huang, Cheng-Zhi Anna
 - Huang, Qiang
 - Humphrey, Eric J.
 - Hutchings, P.
 - Huttunen, Heikki
+- Hwang, Uiwon
 - Ide, Ichiro
+- Ilya Sutskever
 - Imenina, Alina
 - Jackson, Philip J. B.
 - Jain, Shubham
@@ -124,6 +135,7 @@
 - Jeong, Il-Young
 - Kakade, Sham M.
 - Kaliappan, Mala
+- Kaminsky, I.
 - Kavcic, Alenka
 - Keefe, Douglas H.
 - Kelz, Rainer
@@ -153,14 +165,17 @@
 - Lee, Honglak
 - Lee, Jongpil
 - Lee, Kyogu
+- Lee, Sang-gil
 - Lee, Taejin
 - Lee, Tan
 - Leglaive, Simon
 - Lewis, J. P.
+- Li, Juncheng
 - Li, Lihua
 - Li, Peter
 - Li, Siyan
 - Li, Tom LH
+- Li, Xinjian
 - Li, Xinxing
 - Lidy, Thomas
 - Liem, CCS
@@ -174,6 +189,7 @@
 - Malik, Miroslav
 - Marolt, Matija
 - Martel Baro, Héctor
+- Materka, Andrzej
 - Mathulaprangsan, Seksan
 - Matityaho, Benyamin
 - McFee, Brian
@@ -181,7 +197,9 @@
 - Mehri, Soroush
 - Meng, Fanhang
 - Mertins, Alfred
+- Metze, Florian
 - Mimilakis, Stylianos Ioannis
+- Min, Seonwoo
 - Miron, Marius
 - Mitsufuji, Yuki
 - Montecchio, Nicola
@@ -221,13 +239,16 @@
 - Prockup, Matthew
 - Qian, Jiyuan
 - Qian, Sheng
+- Qu, Shuhui
 - Radenen, Mathieu
 - Ramírez, Marco A. Martínez
 - Reiss, Joshua D.
 - Ren, Gang
+- Rewon Child
 - Richard, Gaël
 - Riedmiller, Martin
 - Rigaud, François
+- Roberts, Adam
 - Robinson, John
 - Roma, Gerard
 - Rosasco, Lorenzo
@@ -244,12 +265,15 @@
 - Schuller, Björn W
 - Schuller, Gerald
 - Schultz, Tanja
+- Scott Gray
 - Senac, Christine
 - Serra, Xavier
 - Seybold, Bryan
+- Shazeer, Noam
 - Shi, Zhengshan
 - Sigtia, Siddharth
 - Silla, Carlos N
+- Simon, Ian
 - Simpson, Andrew J. R.
 - Slaney, Malcolm
 - Slizovskaia, Olga
@@ -260,6 +284,7 @@
 - Southall, Carl
 - Stables, Ryan
 - Stasiak, Bartłomiej
+- Stasyuk, Andriy
 - Stoller, Daniel
 - Sturm, Bob L.
 - Su, Hong
@@ -276,10 +301,12 @@
 - Tsipas, Nikolaos
 - Uhlich, Stefan
 - Ullrich, Karen
+- Uszkoreit, Jakob
 - Valin, Jean-Marc
 - Van Gemert, JC
 - Van Gool, Luc
 - Van den Oord, Aaron
+- Vaswani, Ashish
 - Velarde, Gissel
 - Veličković, Petar
 - Virtanen, Tuomas
@@ -295,6 +322,7 @@
 - Wang, Wenwu
 - Wang, Xinxi
 - Wang, Ye
+- Wang, Yun
 - Wang, Yuyi
 - Wang, Ziyuan
 - Watson, David
@@ -319,6 +347,7 @@
 - Yang, Yi-Hsuan
 - Ycart, Adrien
 - Yoo, Chang D
+- Yoon, Sungroh
 - Zhang, Chiyuan
 - Zhang, Hui
 - Zhang, Pengjing

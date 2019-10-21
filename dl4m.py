@@ -16,6 +16,7 @@ Description of dl4m.py
 Parse dl4m.bib to create a simple and readable ReadMe.md table.
 
 ..todo::
+    add function that test and report dead http links
     sort bib
     add Fig for tasks, wordcloud, dataaugmentation
     bibtexparser accentuation handling in authors.md list

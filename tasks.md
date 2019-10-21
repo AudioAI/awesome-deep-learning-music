@@ -3,6 +3,7 @@
 Please refer to the list of useful acronyms used in deep learning and music: [acronyms.md](acronyms.md).
 
 - Artist recognition
+- Audio generation
 - Beat detection
 - Boundary detection
 - Chord recognition
